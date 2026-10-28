@@ -1,4 +1,5 @@
 package com.pluralsight;
+import java.util.Arrays;
 
 public class TestStatsApp {
     public static void main(String[] args) {
